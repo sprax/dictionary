@@ -1,12 +1,13 @@
 English Language Dictionary
-================================
+===========================
 
-[[NOTES by Sprax: dictionary.json is swamped with errors: words joined together, inconsistencies
+## BEGIN NOTES by Sprax: 
+dictionary.json is swamped with errors: words joined together, inconsistencies
 of many kinds.  No doubt many came from the OCR; others came from oddities in the original.
 Parts of speech information is lost.  Worst of all, most definitions were lost, and the ones
 that remain, usually one per word, are often so incidental as to be wrong.  See, e.g., SPRING,
 which is wrongly assigned one of the definitions of SPRINGAL.  Thus SPRING is not defined.
-]]
+## END NOTES
 
 This repository houses the contents of Webster's Unabridged English Dictionary.
 
