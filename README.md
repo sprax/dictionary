@@ -1,7 +1,9 @@
 English Language Dictionary
 ================================
 
-[[NOTES by Sprax: dictionary.json is swamped with errors: words joined together, inconsistencies
+[[
+# NOTES by Sprax: 
+dictionary.json is swamped with errors: words joined together, inconsistencies
 of many kinds.  No doubt many came from the OCR; others came from oddities in the original.
 Parts of speech information is lost.  Worst of all, most definitions were lost, and the ones
 that remain, usually one per word, are often so incidental as to be wrong.  See, e.g., SPRING,
