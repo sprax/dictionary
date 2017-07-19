@@ -1,4 +1,5 @@
 English Language Dictionary
+===========================
 
 ## BEGIN NOTES by Sprax: 
 dictionary.json is swamped with errors: words joined together, inconsistencies
